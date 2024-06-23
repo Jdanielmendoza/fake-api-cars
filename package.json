@@ -1,0 +1,31 @@
+{
+  "name": "fake-api-cars",
+  "version": "1.0.0",
+  "description": "fake api about cars for stations services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jdanielmendoza/fake-api-cars.git"
+  },
+  "keywords": [
+    "cars",
+    "Jdanielmendoza",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Daniel Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jdanielmendoza/"
+  },
+  "homepage": "https://github.com/Jdanielmendoza",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
